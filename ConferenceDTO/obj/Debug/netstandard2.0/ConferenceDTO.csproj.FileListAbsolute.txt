@@ -1,0 +1,12 @@
+C:\Users\n.misic\source\repos\ConferencePlanner\ConferenceDTO\bin\Debug\netstandard2.0\ConferenceDTO.deps.json
+C:\Users\n.misic\source\repos\ConferencePlanner\ConferenceDTO\bin\Debug\netstandard2.0\ConferenceDTO.dll
+C:\Users\n.misic\source\repos\ConferencePlanner\ConferenceDTO\bin\Debug\netstandard2.0\ConferenceDTO.pdb
+C:\Users\n.misic\source\repos\ConferencePlanner\ConferenceDTO\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\n.misic\source\repos\ConferencePlanner\ConferenceDTO\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Users\n.misic\source\repos\ConferencePlanner\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.csproj.CoreCompileInputs.cache
+C:\Users\n.misic\source\repos\ConferencePlanner\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.AssemblyInfoInputs.cache
+C:\Users\n.misic\source\repos\ConferencePlanner\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.AssemblyInfo.cs
+C:\Users\n.misic\source\repos\ConferencePlanner\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.csproj.CopyComplete
+C:\Users\n.misic\source\repos\ConferencePlanner\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.dll
+C:\Users\n.misic\source\repos\ConferencePlanner\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.pdb
+C:\Users\n.misic\source\repos\ConferencePlanner\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.csprojAssemblyReference.cache
